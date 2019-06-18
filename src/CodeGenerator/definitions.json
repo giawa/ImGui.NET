@@ -2956,7 +2956,8 @@
         },
         {
           "name": "out_pixels",
-          "type": "unsigned char**"
+          "type": "unsigned char**",
+          "variants": [ "IntPtr*" ]
         },
         {
           "name": "out_width",
@@ -2994,7 +2995,8 @@
         },
         {
           "name": "out_pixels",
-          "type": "unsigned char**"
+          "type": "unsigned char**",
+          "variants": [ "IntPtr*" ]
         },
         {
           "name": "out_width",
