@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "CodeGenerator": {
-      "commandName": "Project",
-      "commandLineArgs": "E:\\projects\\imgui.net\\src\\ImGui.NET\\Generated"
-    }
-  }
-}
